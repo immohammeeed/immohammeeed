@@ -1,0 +1,22 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # updates every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          template: terminal
+          output: generated/metrics.png
+          theme: dark # we can tweak this to purple in the next step
