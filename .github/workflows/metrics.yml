@@ -1,7 +1,0 @@
-name: Terminal card
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: token: ${{ github.token }}
-  base: header, metadata
