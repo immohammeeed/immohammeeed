@@ -1,4 +1,4 @@
-name: main
+name: Terminal
 uses: lowlighter/metrics@latest
 with:
   template: terminal
