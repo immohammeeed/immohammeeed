@@ -36,7 +36,7 @@ CS Student • Tech enthusiast • Learning new stuff constantly!
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=immohammeeed" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=immohammeeed&theme=radical" />
 </div>
 
 
