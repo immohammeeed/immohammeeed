@@ -36,7 +36,7 @@ CS Student • Tech enthusiast • Learning new stuff constantly!
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immohammeeed&bg_color=0d1117&color=dbccff&line=7c3aed&point=c4b5fd&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=immohammeeed" />
 </div>
 
 
