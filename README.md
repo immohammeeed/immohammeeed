@@ -2,7 +2,7 @@
 
 # Monux ツ
 
-<img src="https://komarev.com/ghpvc/?username=immohammeeed&label=profile%20views&color=1f6feb&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=immohammeeed" />
 
 CS Student • Tech enthusiast • Learning new stuff constantly!
 
